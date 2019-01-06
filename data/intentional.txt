@@ -1,8 +1,8 @@
 ﻿# Source File for IDN Confusables
 # File: intentional.txt
-# Version: 2.1
-# Generated: 2010-04-09, 19:56:03 GMT
-# Checkin: $Revision: 1.28 $
+# Version: 3.0-draft
+# Generated: 2012-07-17, 21:27:29 GMT
+# Checkin: $Revision: 1580 $
 #
 # For documentation and usage, see http://www.unicode.org/reports/tr39/
 #
